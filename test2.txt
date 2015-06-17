@@ -1,6 +1,7 @@
-if(hoge){
- a=a+1;
-}else{
+if(!hoge){
  b=b+1;
+}else{
+ b=b+2;
+ a=a+1;
 }
 
