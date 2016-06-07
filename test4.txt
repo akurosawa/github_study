@@ -1,4 +1,0 @@
-
-version 6.0
-
-this is a test comment 6.0.
