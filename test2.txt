@@ -9,4 +9,7 @@ if(!hoge){
 version 5.0
 
 this is a test comment 5.0.
+version 6.0
+
+this is a test comment 6.0.
 */
